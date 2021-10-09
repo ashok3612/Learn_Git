@@ -1,1 +1,2 @@
 This is first line fo File A
+This is second line
